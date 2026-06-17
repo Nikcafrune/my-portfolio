@@ -5,17 +5,17 @@ export function About() {
 
       <div className="about__text">
         <p>
-          Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento
-          back-end.Estou em um estágio na LD Celulose S.A, atuo com Python em automações e criação
+          Estudante de Análise e Desenvolvimento de Sistemas formando no final desse ano (2026).Estou em um estágio na LD Celulose S.A, atuo com Python em automações e criação
           de chatbots, com integração de LLMs via API (Azure).
         </p>
 
         <p>
-          Desenvolvo projetos com FastAPI e integração com SQL Server, além de automatizar
-          rotinas e manipular dados no Excel com VBA (macros) e Power Query, e atuar com
-          SAP S/4HANA. Tenho vivência em ambientes ágeis, versionamento com Git/GitHub e
-          colaboração em equipe, buscando evoluir tecnicamente e contribuir com soluções
-          eficientes e bem estruturadas.
+          Sou desenvolvedor de software e fundador da Kodara LTDA, onde desenvolvo soluções sob medida 
+          para empresas, oferecendo consultoria e criação de sistemas personalizados. Tenho experiência 
+          no desenvolvimento de APIs com FastAPI, integração com SQL Server, automação de processos, Excel 
+          (VBA e Power Query) e SAP S/4HANA. Trabalho seguindo boas práticas de desenvolvimento, metodologias 
+          ágeis e versionamento com Git/GitHub, buscando criar soluções robustas, escaláveis e que gerem valor
+           para os negócios. 
         </p>
       </div>
     </section>

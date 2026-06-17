@@ -11,10 +11,11 @@ export function Projects() {
 
       {!hasProjects ? (
         <div className="empty">
-          <h3>Em breve</h3>
+          <h3>https://github.com/Nikcafrune/crud-java-angular.git</h3>
           <p>
-            Estou construindo novos projetos e vou publicar aqui conforme eu for
-            finalizando.
+            Pojeto de CRUD utilizando Java com Spring Boot no backend e Angular no frontend, com integração via API REST. O projeto 
+            inclui funcionalidades de criação, leitura, atualização e exclusão de dados, seguindo boas práticas de desenvolvimento e 
+            arquitetura de software.
           </p>
         </div>
       ) : (
